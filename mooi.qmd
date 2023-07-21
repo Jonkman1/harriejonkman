@@ -1,0 +1,58 @@
+---
+title: "Mooi/Beautiful"
+---
+
+## The Way I Read It / De manier zoals ik het lees
+
+![Billy Collins getekend door Sam Drukker](img/Screenshot8.jpg){width="30%"} 
+
+<br>
+
+<br>
+
+Graag lees ik het werk van de Amerikaanse dichter Billy Collins. Zijn werk vertaalde ik en een selectie ervan zal uitkomen bij de Statenhofpers onder de titel *The Way I Read It. A Selection Of His Poems (1988-1922)/De manier zoals ik het lees. Een keuze uit zijn gedichten (1988-2022)*. Hier een viertal vertaalde gedichten:
+
+<br>
+
+[1. Dinsdag](documents/Dinsdag.pdf); [2. Silhouet](documents/Silhouet.pdf); [3. Vergeetachtigheid](documents/Vergeetachtigheid.pdf) en [4. Aan mijn favoriete 17-jaar oude meisje van de middelbare school](documents/Aan_mijn_favoriete_17.pdf)
+
+## Divers
+
+Hier een serie nieuwsjaarskaarten van de afgelopen jaren. Een kleine familietraditie
+
+Here are some new year cards we made last years. A small family tradition.
+
+
+::: {layout-ncol="2"}
+![Nieuwjaar 2007](documents/Kaarten/2007_NJ.png)
+
+![Nieuwjaar 2008](documents/Kaarten/2008_NJ.png)
+
+![Nieuwjaar 2009](documents/Kaarten/2009_NJ.png)
+
+![Nieuwjaar 2010](documents/Kaarten/2010_NJ.png)
+
+![Nieuwjaar 2011](documents/Kaarten/2011_NJ.png)
+
+![Nieuwjaar 2013](documents/Kaarten/2013_NJ.jpg){175%}
+
+![Nieuwjaar 2014](documents/Kaarten/2014_NJ.png)
+
+![Nieuwjaar 2015](documents/Kaarten/2015_NJ.png)
+
+![Nieuwjaar 2016](documents/Kaarten/2016_NJ.jpg)
+
+![Nieuwjaar 2017](documents/Kaarten/2017_NJ.png){50%}
+
+![Nieuwjaar 2018](documents/Kaarten/2018_NJ.png)
+
+![Nieuwjaar 2019](documents/Kaarten/2019_NJ.png)
+
+![Nieuwjaar 2020](documents/Kaarten/2020_NJ.png)
+
+![Nieuwjaar 2021](documents/Kaarten/2021_NJ.png)
+
+![Nieuwjaar 2022](documents/Kaarten/2022_NJ.png)
+
+![Nieuwjaar 2023](documents/Kaarten/2023_NJ.png) Nieuwjaarskaarten
+:::

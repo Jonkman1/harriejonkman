@@ -1,0 +1,13 @@
+---
+title: "Zelf/Self"
+---
+
+Hier vind je informatie over mij in [cv-html](https://cvharrie.netlify.app/) en in [pdf-cv](documents/resume_harrie.pdf)
+
+------------------------------------------------------------------------
+
+Here you find information about me in [cv-html](https://cvharrie.netlify.app/) and in [pdf-cv](documents/resume_harrie.pdf)
+
+<br>
+
+![](img/Screenshot1.png){width="30%"}
