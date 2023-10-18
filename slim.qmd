@@ -55,7 +55,7 @@ This book I wrote with David Farrington and Frederick Groeger-Roth. Information 
 
 ## Andere producten/Other products
 
-Hier komen enkele projecten waar ik dit jaar aan werk. Hier is er vast een. Dit open-source boek maakte ik onlangs (februari 2023) van workshops die door het NSC-R zijn gemaakt [ttbook](https://ttbook.netlify.app/). Zie hier (https://ttbook.netlify.app/)
+Hier komen enkele projecten waar ik dit jaar aan werk. Hier is er vast een. Dit open-source boek maakte ik onlangs (februari 2023) van workshops die door het NSC-R zijn gemaakt [ttbook](https://ttbook.netlify.app/). 
 
 ----
 
