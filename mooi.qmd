@@ -23,6 +23,7 @@ I enjoy reading the work of American poet Billy Collins. I translated his work a
 ## Allemaal in de familie
 
 ![Allemaal in de familie](img/allemaalindefamilie.png){width="30%"}
+
 Dit jaar (2023) is onze kleindochter Lilou Jonkman-van Leeuwen geboren, de dochter van onze dochter Rosa Jonkman en schoonzoon Ivo van Leeuwen. Naar aanleiding van deze gebeurtenis maakten we (familie Jonkman en familie Van Leeuwen) een boekje met de titel *Allemaal in de familie*. Ik heb de familieleden gevraagd een kortje tekstje over zichzelf en hun toekomstwensen voor de kleine te schrijven. Mijn zoon Sal heeft er tekeningen bij gemaakt. Het boekje is vormgegeven door mijn vrouw. Deze versie van het boekje heb ik zelf vormgegeven met R en Quarto.
 
 [Hier](https://allemaalindefamilie.netlify.app/) kun je het vinden:
